@@ -13,8 +13,8 @@ f) lista em ordem decrescente.
 a média deve ser acima de 1).
 
 3. Escreva um programa que leia 20 valores inteiros e informe a média deles, o maior e o menor valor.
-4. 
-5. Crie uma função para desenhar uma linha, usando o caractere '_' (underline). O tamanho da linha deve
+
+4. Crie uma função para desenhar uma linha, usando o caractere '_' (underline). O tamanho da linha deve
 ser definido na chamada da função.
 
 5. Crie uma função que receba como parâmetro uma lista, com valores de qualquer tipo. A função deve
